@@ -1,0 +1,10 @@
+Country,Age,Salary,Purchased
+India,25,25000,Yes
+UK,55,89000,No
+US,75,125000,Yes
+UK,,75000,Yes
+UK,48,,No
+India,75,125000,Yes
+US,61,,Yes
+UK,,89000,No
+India,75,49000,Yes
